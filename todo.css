@@ -1,0 +1,24 @@
+#todolist> li:first-child .fa-chevron-up{
+    visibility: hidden;
+}
+#todolist> li:last-child .fa-chevron-down{
+    visibility: hidden;
+}
+#btn{
+    background-color: ghostwhite;
+     border-width: 1px;
+    
+    
+}
+#del{
+    background-color: ghostwhite;
+    border-width: 1px;
+    
+}
+#i{
+   font-size: 30px;
+   
+}
+body{
+    background-color:ghostwhite;
+}
